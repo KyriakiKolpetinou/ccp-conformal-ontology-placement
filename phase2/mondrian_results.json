@@ -1,0 +1,53 @@
+{
+  "W": 0.7,
+  "target": 0.8,
+  "leaf": [
+    {
+      "group": "leaf (pred child=NULL)",
+      "n_cal": 113,
+      "n_test": 58,
+      "cov_marginal": 0.724,
+      "cov_mondrian": 0.759,
+      "set_marg": 11.8,
+      "set_mond": 14.5
+    },
+    {
+      "group": "non-leaf",
+      "n_cal": 216,
+      "n_test": 218,
+      "cov_marginal": 0.734,
+      "cov_mondrian": 0.702,
+      "set_marg": 17.3,
+      "set_mond": 10.9
+    }
+  ],
+  "depth": [
+    {
+      "group": "shallow",
+      "n_cal": 123,
+      "n_test": 79,
+      "cov_marginal": 1.0,
+      "cov_mondrian": 0.873,
+      "set_marg": 17.4,
+      "set_mond": 8.7
+    },
+    {
+      "group": "mid",
+      "n_cal": 126,
+      "n_test": 122,
+      "cov_marginal": 0.566,
+      "cov_mondrian": 0.598,
+      "set_marg": 13.6,
+      "set_mond": 15.7
+    },
+    {
+      "group": "deep",
+      "n_cal": 80,
+      "n_test": 75,
+      "cov_marginal": 0.72,
+      "cov_mondrian": 0.72,
+      "set_marg": 18.9,
+      "set_mond": 20.8
+    }
+  ]
+}

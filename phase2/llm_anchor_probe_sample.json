@@ -1,0 +1,227 @@
+[
+  {
+    "i": 14,
+    "mention": "CKD",
+    "ctx": "(OR 2.17; 95% CI 1.16-4.06). Recovery rate of AKI was lower than expected (19%), and the cumulative incidence of severe  [CKD]  at 1 year was 15%. After lung transplantation, AKI is common and often evolves into severe CKD, which is a known cause ",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 16,
+    "mention": "CKD",
+    "ctx": "ypoxemia after adjustment for age, hypertension, diabetes, smoking, obesity, and NSAID use. There was no association of  [CKD]  with daytime sleepiness. In men with CKD, those with OSA were not significantly more likely to report symptoms (sleepin",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 20,
+    "mention": "CKD",
+    "ctx": " kidney injury Lung transplant recipients often develop acute kidney injury (AKI) evolving into chronic kidney disease ( [CKD] ). The immunosuppressant tacrolimus might be associated with the emergence of AKI. We analyzed the development and recov",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 22,
+    "mention": "CKD",
+    "ctx": "f those, 34.8% had de novo CKD. Since no one had CKD in partial nephrectomized patients, we determined risk factors for  [CKD]  in radical nephrectomized patients. Cox regression analysis revealed that postoperative AKI, preoperative eGFR, and his",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 23,
+    "mention": "CKD",
+    "ctx": "tive incidence of severe CKD at 1 year was 15%. After lung transplantation, AKI is common and often evolves into severe  [CKD] , which is a known cause of morbidity and mortality. Supra-therapeutic whole-blood tacrolimus trough concentrations are ",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 26,
+    "mention": "CKD",
+    "ctx": "lable on 812 men without a prior OSA diagnosis who underwent full in-home polysomnography (Embletta X100) in 2010-2011.  [CKD]  was defined as an estimated glomerular filtration rate (eGFR) <60 mL/min/1.73m2 or eGFR \u226560 and albuminuria (albumin cr",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 42,
+    "mention": "AP",
+    "ctx": "tivity of 85-90% at optimal pattern expression cutoff for discrimination of PD patients and NCs and is not expressed in  [AP] . PDRP - Slovenia proves to be a robust and reproducible functional imaging biomarker independent of patient population.",
+    "gold_parents": [
+      "parkinsonism (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 43,
+    "mention": "CKD",
+    "ctx": "omerular filtration rate (eGFR) at 3 to 36 months were obtained from 90.2% of patients, and of those, 34.8% had de novo  [CKD] . Since no one had CKD in partial nephrectomized patients, we determined risk factors for CKD in radical nephrectomized ",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 44,
+    "mention": "CKD",
+    "ctx": "ng, apneas) or be identified with the STOP OSA screening questionnaire, compared to men without OSA. Predominantly mild  [CKD]  is associated with severe OSA and arousals. Further population studies examining the longitudinal relationship between ",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 45,
+    "mention": "CKD",
+    "ctx": "lomerular filtration rate (eGFR) <60 mL/min/1.73m2 or eGFR \u226560 and albuminuria (albumin creatinine ratio \u22653.0 mg/mmol).  [CKD]  [10.5%, n=85 (Stage 1-3, 9.7%; Stage 4-5, 0.7%)] of predominantly mild severity showed significant association s with O",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 55,
+    "mention": "Neurocognitive dysfunction",
+    "ctx": "s between physical activity and neurocognitive domain functions in patients with schizophrenia: a cross-sectional study  [Neurocognitive dysfunction]  is a critical target symptom of schizophrenia treatment. A positive correlation between physical activity level and neu",
+    "gold_parents": [
+      "cognitive disorder (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 63,
+    "mention": "CKD",
+    "ctx": "postoperative AKI, preoperative eGFR, and histologic score of non-neoplastic kidney were the independent predictors for  [CKD] . We conclude that routine pathologic evaluation of non-neoplastic kidney provides valuable diagnostic and prognostic in",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 92,
+    "mention": "AP",
+    "ctx": "e functional imaging biomarker independent of patient population. It accurately differentiates PD patients from NCs and  [AP]  and correlates well with the clinical measure of PD progression.",
+    "gold_parents": [
+      "parkinsonism (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 122,
+    "mention": "UTIs",
+    "ctx": "ring intervention; during follow-up (mean 28.2 months) three patients (5.6%) suffered febrile urinary tract infections ( [UTIs] ), of which one (1.8%) was diagnosed with a persisting VUR. Persistent hydronephroses (\u2265II SFU) were recorded in six pat",
+    "gold_parents": [
+      "urinary tract infectious disease (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 125,
+    "mention": "neurocognitive disorders",
+    "ctx": "and Cognitive Recovery Traumatic brain injury (TBI) is one of the most disabling clinical conditions that could lead to  [neurocognitive disorders]  in survivors. Our group and others previously reported that prophylactic enrichment of dietary omega-3 polyunsaturated ",
+    "gold_parents": [
+      "cognitive disorder (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 164,
+    "mention": "CKD",
+    "ctx": "acute kidney injury at 10% (16 of 155). Participants in CKD - MIT are typical of acutely ill hospitalized patients with  [CKD] . A medication management intervention after hospital discharge is under study to reduce post - hospitalization acute ca",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 165,
+    "mention": "chronic kidney disease",
+    "ctx": "isease phase after stabilization of renal function. NGAL can serve a biomarker for acute kidney injury and possibly for  [chronic kidney disease]  in the tubulointerstitial rat model.",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 168,
+    "mention": "CKD",
+    "ctx": " disease (CKD) is high and strategies to reduce this risk are urgently needed. The CKD - Medication Intervention Trial ( [CKD]  - MIT; www.clinicaltrials.gov; NCTO1459770) is a single-blind (investigators), randomized, clinical trial conducted at ",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 169,
+    "mention": "CKD",
+    "ctx": "pain; type, dose, and reason for opioid use; effectiveness of pain control and associated adverse effects of opioids in  [CKD]  patients. Twelve of 131 articles met inclusion criteria. There were no randomized controlled trials (RCT) evaluable, an",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 170,
+    "mention": "CKD",
+    "ctx": "nts with CKD, which is not being effectively managed, probably due to underprescription of analgesics or opioids in the  [CKD]  population. Clinicians are in need of additional and well-designed randomized control trials that focus on the indicati",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 176,
+    "mention": "CKD",
+    "ctx": "ic review of the current literature, there is fair evidence for the high prevalence of chronic pain among patients with  [CKD] , which is not being effectively managed, probably due to underprescription of analgesics or opioids in the CKD populati",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 177,
+    "mention": "CKD",
+    "ctx": "rvention after hospital discharge is under study to reduce post - hospitalization acute care utilization and to improve  [CKD]  management.",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 180,
+    "mention": "CKD",
+    "ctx": "st common single diagnosis for admission was community-acquired acute kidney injury at 10% (16 of 155). Participants in  [CKD]  - MIT are typical of acutely ill hospitalized patients with CKD. A medication management intervention after hospital di",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 184,
+    "mention": "CKD",
+    "ctx": " Review To investigate the prevalence of chronic pain and opioid management among patients with chronic kidney disease ( [CKD] ). Systematic review. A systematic search was performed, including citations from 1960 to May 2015. The review highlight",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  },
+  {
+    "i": 188,
+    "mention": "CKD",
+    "ctx": "re centers for 90 days following hospital discharge. Secondary outcomes are achievements of guideline-based targets for  [CKD]  risk factors and complications. Enrollment began in February 2012 and ended in May 2015. At baseline, the age of partic",
+    "gold_parents": [
+      "renal impairment (disorder)"
+    ],
+    "generic": false
+  }
+]

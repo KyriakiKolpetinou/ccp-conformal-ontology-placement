@@ -1,0 +1,10 @@
+# data is large / licensed-adjacent — never commit
+data/
+repo/
+results/*.ckpt
+results/*.pt
+*.pyc
+__pycache__/
+.env
+env/*.tar.gz
+*.log
