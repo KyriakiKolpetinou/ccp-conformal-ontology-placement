@@ -3,8 +3,8 @@
 ## `recall_probe_Disease.json`
 
 Output of `scripts/recall_probe.py --dataset Disease`, run **before** we committed to
-retraining the Oxford Edge-Bi-encoder/Cross-encoder (see the correction note in
-`PROJECT_BRIEF.md`, section 4). Purpose: a cheap de-risking check — *is retrieval even feasible
+retraining the Oxford Edge-Bi-encoder/Cross-encoder
+Purpose: a cheap de-risking check — *is retrieval even feasible
 on this benchmark, without training anything?*
 
 ### What it measures
