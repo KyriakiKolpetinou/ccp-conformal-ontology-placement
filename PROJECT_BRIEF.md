@@ -22,7 +22,7 @@ Wrap an existing ontology concept-placement model in a hierarchy-aware, class-co
 - HEADLINE: risk-coverage / AURC curve (accuracy on auto-accepted vs fraction referred to curator).
 - Calibration (ECE).
 - Subgroup coverage breakdown (leaf vs non-leaf, depth band, Disease vs CPP) — both as honesty and as a finding.
-- 
+  
 ## 4. Reading list
 Placement task / baselines:
 - Dong, Chen, He, Gao, Horrocks. "A Language Model based Framework for New Concept Placement in Ontologies." ESWC 2024. arXiv:2402.17897.
