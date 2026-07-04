@@ -18,7 +18,7 @@ failure that killed LLM-as-verifier (the model has no signal the mention lacks).
 - **Out:** (a) one-line placement at the guaranteed resolution; (b) an *ambiguity note* naming the
   indistinguishable sibling children and why the text can't resolve them; (c) the tier flag.
 
-## Evaluation plan (the hard part for a method paper)
+## Evaluation plan
 1. **Faithfulness (automatic):** explanation must name only concepts inside the guaranteed region —
    checkable by string-match against the region set (0 hallucinated parents = pass). Cheap, no humans.
 2. **Usability (small expert study):** N≈30 cards, terminologist rates "would this speed my decision?"
