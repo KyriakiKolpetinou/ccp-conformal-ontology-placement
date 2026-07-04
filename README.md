@@ -7,7 +7,6 @@ We wrap the Oxford LM-ontology-concept-placement model (we do **not** retrain it
 out-of-KB concept it returns a coverage-guaranteed *set* of candidate insertion edges plus an
 abstain/refer signal, evaluated against real SNOMED version-diff ontology growth.
 
-**Target venues:** JBI, JAMIA Open, or J. Biomedical Semantics (mid-tier, non-MDPI).
 
 See `PROJECT_BRIEF.md` for the full plan and `notes/STATUS.md` for live state and go/no-go gates.
 
