@@ -126,15 +126,9 @@ figure_slide("Calibration & subgroup fairness (with an honest limit)", "fig5_mon
     "Honest limitation the paper must own (see also fig2 calibration, fig4 drift).",
 ])
 
-# 9 status + next
-content_slide("Status, publishability, next steps", [
+# 9 status
+content_slide("Status", [
     ("STATUS:  reproduction GO  ·  exact-edge calibration NO-GO  ·  region calibration WORKS.", 18, GREEN, True),
-    ("PUBLISHABILITY (honest): a plausible mid-tier paper (JBI / JAMIA Open / J. Biomed. Semantics).", 18, None, True),
-    "   Strength: novel reliability/curator-usability angle; the confidence-tracks-region finding.",
-    "   Risks to manage: the coverage guarantee undershoots (drift); single small dataset; modest novelty.",
-    "   → Reframe headline to risk-coverage/curator-triage (robust to drift), and add a 2nd dataset.",
-    ("NEXT:  CPP benchmark running now (job 326, 432 test mentions) → cross-dataset generalization;", 18, BLUE, True),
-    "          then class-conditional refinement + write-up.",
 ])
 
 out = os.path.join(HERE, "CCP_findings.pptx"); prs.save(out)
