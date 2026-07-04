@@ -21,7 +21,7 @@ from transformers import AutoTokenizer, AutoModel
 
 MODEL = "cambridgeltl/SapBERT-from-PubMedBERT-fulltext"
 DATA = "/home/kkolpetinou/calibrated-concept-placement/data"
-OUT = "/home/kkolpetinou/calibrated-concept-placement/results"
+OUT = "/home/kkolpetinou/calibrated-concept-placement/probes"
 
 def load_jsonl(path):
     with open(path, encoding="utf-8-sig") as f:

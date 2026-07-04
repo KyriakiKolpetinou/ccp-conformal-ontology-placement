@@ -1,4 +1,7 @@
-# results/
+# probes/
+
+De-risking checks run before/alongside committing to the real pipeline — not conformal-layer
+results (those live under `phase1/` and `phase2/`).
 
 ## `recall_probe_Disease.json`
 

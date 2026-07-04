@@ -15,7 +15,7 @@ See `PROJECT_BRIEF.md` for the full plan.
 - `phase1/`   — Phase 0/1 outputs: reproduced backbone score dumps, exact-edge conformal layer
 - `phase2/`   — Phase 2: Wu–Palmer region-aware conformal + Mondrian calibration, figures
 - `scripts/`  — reproduction probes and cluster launch scripts
-- `results/`  — misc probe metrics
+- `probes/`  — de-risking sanity checks (pre-training probes, not conformal-layer results)
 - `CCP_findings.pptx` / `make_findings_ppt.py` — findings deck and its generator
 
 Not included here (see `PROJECT_BRIEF.md` for how to fetch them): `repo/` (cloned upstream
