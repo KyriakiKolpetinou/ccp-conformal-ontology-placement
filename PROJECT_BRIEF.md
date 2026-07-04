@@ -2,7 +2,6 @@
 
 **Working title:** Calibrated Concept Placement: Hierarchy-Aware Conformal Prediction Sets over Subsumption Edges for Ontology Enrichment from Clinical Text
 
-**Target venues (mid-tier, non-MDPI):** Journal of Biomedical Informatics (JBI), JAMIA Open, or Journal of Biomedical Semantics.
 
 ---
 
