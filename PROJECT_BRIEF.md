@@ -45,10 +45,5 @@ Nearest neighbors:
 - CLOZE (the weak unconstrained-LLM baseline): arXiv:2511.16548.
 - "Ontology enrichment using a large language model... for concept placement" (SOHOv1/SDoH), J. Biomed. Informatics, June 2025 (ScienceDirect S1532046425000942).
 
-NOTE: verify arXiv IDs for the hierarchical-conformal and medical-NER conformal papers when pulling them — some IDs came from search snippets and were not individually fetched.
-
-## 10. Framing discipline (carry into the paper)
-- Contribution is RELIABILITY and CURATOR-USABILITY, not beating BERTSubs on raw accuracy. You likely won't beat them on accuracy and you don't need to.
-- Describe novelty precisely as "combination + small methodological adaptation." Reviewers respect a modest, accurate novelty claim over an inflated one.
+- Contribution is RELIABILITY and CURATOR-USABILITY, not beating BERTSubs on raw accuracy
 - Small test sets (276/432) limit statistical strength — use proper calibration/test splits, report confidence intervals, consider cross-conformal.
-- Scoop risk is moderate and slightly rising (the community is drifting toward UQ-on-entity-tasks). Move fast.
