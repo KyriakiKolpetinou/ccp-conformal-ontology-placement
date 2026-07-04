@@ -13,7 +13,7 @@ Wrap an existing ontology concept-placement model in a hierarchy-aware, class-co
 - **Processed data (skip licensed pipeline):** Zenodo record 10432003.
 - **Backbone to wrap (public code):** https://github.com/KRR-Oxford/LM-ontology-concept-placement (MIT, Python 3.8). Provides Edge-Bi-encoder, edge enrichment, Edge-Cross-encoder, plus inverted-index / fixed-embedding / LLM-prompting baselines. Best baseline ~30% InR_any@10. Original plan: reuse its per-edge scores without retraining. **Correction (see `notes/STATUS.md`, 2026-06-23):** no released checkpoint or scores exist, so we retrained the Edge-Bi-encoder and Edge-Cross-encoder ourselves from their SapBERT init, faithful to the published pipeline.
 - **Repo cautions:** old pinned deps (Transformers/PyTorch/NLTK/Flair/tqdm) with Dependabot alerts the authors won't fix; budget time for env setup. Full data creation needs SNOMED CT (NLM license), UMLS/MRCONSO (UMLS license), MedMentions — but the Zenodo processed data lets you skip this unless you do the clinical-notes leg.
-- **Optional clinical leg (Phase 3, stretch):** same version-diff trick but find the new concepts mentioned in MIMIC-IV or n2c2 2019 Track 3 (MCN) clinical notes instead of PubMed abstracts. Earns the "from clinical text" claim; requires you to build the eval yourself; needs credentialed data access.
+
 
 ## 3. Metrics to report
 - Their metric, InR_any@k / InR_all@k (for comparability to the published baseline).
