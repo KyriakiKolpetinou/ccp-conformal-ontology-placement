@@ -46,7 +46,4 @@ Region set: `{carcinoma of breast, malignant tumor of breast} -> NULL` (near-syn
 > artifact) and/or its specific parent was not retrieved. The model's weak suggestions are
 > {…top-3…}; **refer to curator.** *Refer-tier.*
 
-## Honest read
-This layer makes the tool *usable* and hits two of the paper's stated future directions, but its
-novelty is modest (it's a guarded explanation wrapper). It belongs in the paper as a usability
-section + small study, NOT as the headline. Headline stays = granularity-adaptive conformal.
+
