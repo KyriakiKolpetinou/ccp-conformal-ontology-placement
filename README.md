@@ -48,5 +48,5 @@ currently only has the reproduction + Wu–Palmer region-aware analysis
 
 ## Honest contribution
 Combination (first calibrated placement) + a small-but-real hierarchy-aware nonconformity score +
-class-conditional/Mondrian per-subgroup coverage. The selling point is **reliability and curator
-usability**, not beating the baseline on raw accuracy.
+class-conditional/Mondrian per-subgroup coverage. The point is **reliability and curator
+usability**.
